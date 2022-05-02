@@ -2,7 +2,7 @@
 
 - An interactive visualization application that was developed as part of the CS526 coursework.
 
-![](https://github.com/neelkanthpoosa/Game_Review_Analysis-Psychological_Impact_Gaming/blob/main/Diva.gif)
+![](https://github.com/neelkanthpoosa/Game_Review_Analysis-Psychological_Impact_Gaming/blob/main/assets/d.gif)
 
 #### By:
 #### - Neelkanth Poosa
