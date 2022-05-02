@@ -11,9 +11,24 @@
 ### - Purpose:
    - To demonstrate effective interactive visualization techniques that will assist target users in understanding key aspects of gaming.
    - With the help of our interactive visualizations, we present the aforementioned parts in a way that's easier to comprehend.
-    
+
+### - Prerequisite:
+   - Create your mapbox account and **insert** your token in a **map.py** python file in the **current directory**:
+   - Contents of map.py:
+         
+         token="<mapbox_token_here>"
+         
+
 ### - Steps to Execute the Project:
-   - Download as a zip/ use "git-clone" command
+   - Set up a virtual env in your PC/laptop.
+   - Download this repository as a zip/ use "git-clone" command    
    - Go to the directory from the terminal
-   - Install the requirements specified
-   - Run: python index.py   
+   - Activate your virtual environment
+   - Install the requirements specified. 
+         
+          pip install -r requirements.txt  
+   
+   - Run: 
+    
+    
+          python index.py   
