@@ -31,7 +31,8 @@
    - Download this repository as a zip/ use "git-clone" command    
    - Go to the directory from the terminal
    - Activate your virtual environment
-   - Install the requirements specified. 
+   - Make sure you have the map.py file in the current directory
+   - Install the requirements specified 
          
           pip install -r requirements.txt  
    
