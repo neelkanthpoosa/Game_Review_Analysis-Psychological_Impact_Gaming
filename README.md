@@ -18,6 +18,7 @@
          
          token="<mapbox_token_here>"
          
+   - Note: Make sure the variable name is **token** in your python file,
 
 ### - Steps to Execute the Project:
    - Set up a virtual env in your PC/laptop.
