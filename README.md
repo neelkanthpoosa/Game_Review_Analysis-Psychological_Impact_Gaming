@@ -1,6 +1,12 @@
 # Game Review Analysis Psychological Impact of Gaming
 
 - An interactive visualization application that was developed as part of the CS526 coursework.
+
+![](https://github.com/neelkanthpoosa/Game_Review_Analysis-Psychological_Impact_Gaming/blob/main/Diva.gif)
+
+#### By:
+#### - Neelkanth Poosa
+#### - Nysa P Ginu
 ### - Datasets used:
    - Kaggle( Steam Game Reviews Data): 
       - Consists of 186 Games Reviews ~ 1.66 GB
