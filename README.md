@@ -8,10 +8,10 @@
 #### - Neelkanth Poosa
 #### - Nysa P Ginu
 ### - Datasets used:
-   - Kaggle( Steam Game Reviews Data): ![Source](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews)
+   - Kaggle( Steam Game Reviews Data): [Source](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews)
       - Consists of 186 Games Reviews ~ 1.66 GB
         
-   - Open Science Framework (Gaming Habits and Psychological Well-being Data): ![Source](https://osf.io/vnbxk/files/osfstorage/59fc7777b83f69026e611138/?view_only=4c54da075e164ea2a5329f5669d03c41)
+   - Open Science Framework (Gaming Habits and Psychological Well-being Data): [Source](https://osf.io/vnbxk/files/osfstorage/59fc7777b83f69026e611138/?view_only=4c54da075e164ea2a5329f5669d03c41)
       - With over 13000 participants, this is the biggest openly available dataset connecting gaming habits, various socio-economic factors and measures of anxiety, social phobia, life satisfaction and narcissism.
 
 ### - Purpose:
